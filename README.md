@@ -1,0 +1,3 @@
+- `main.c` - program code
+- `runme.sh` - program launch
+- `crash.sh` - demonstration of work with an error
